@@ -1,0 +1,17 @@
+=== 12/10/26 | 2 customers | 3 orders ===
+TO PACK / BUY:
+  egg             1 dozen
+  milk            2 l
+  onion           2 kg
+  paneer          500 g
+  tomato          2 kg
+BY CUSTOMER:
+  Ramesh: 2 kg tomato, 1 kg onion, 1 dozen egg, 1 kg onion
+  Sunita: 500 g paneer, 2 l milk
+
+=== 13/10/26 | 1 customers | 1 orders ===
+TO PACK / BUY:
+  bread           2 packet
+  tomato          2 kg
+BY CUSTOMER:
+  Sunita: 2 kg tomato, 2 packet bread

@@ -1,0 +1,9 @@
+order_id,date,time,customer,item,qty,unit
+1,12/10/26,8:03 AM,Ramesh,tomato,2.0,kg
+1,12/10/26,8:03 AM,Ramesh,onion,1.0,kg
+1,12/10/26,8:03 AM,Ramesh,egg,1.0,dozen
+2,12/10/26,8:10 AM,Sunita,paneer,500.0,g
+2,12/10/26,8:10 AM,Sunita,milk,2.0,l
+4,12/10/26,9:05 AM,Ramesh,onion,1.0,kg
+5,13/10/26,7:50 AM,Sunita,tomato,2.0,kg
+5,13/10/26,7:50 AM,Sunita,bread,2.0,packet
